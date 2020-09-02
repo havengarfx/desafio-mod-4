@@ -1,0 +1,10 @@
+[2020-09-02 14:12:45.671] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/workspace/home/gitpod/.local/share/code-server/Workspaces/Untitled-1599052558410.code-workspace'
+[2020-09-02 14:12:45.671] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/workspace/home/gitpod/.local/share/code-server/Workspaces/Untitled-1599052558410.code-workspace'
+[2020-09-02 14:12:52.926] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/workspace/desafio-mod-4/workspace/desafio-mod-4/.vscode/data/User/snippets'
+[2020-09-02 14:12:52.926] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/workspace/desafio-mod-4/workspace/desafio-mod-4/.vscode/data/User/snippets'
+[2020-09-02 14:12:52.931] [remoteagent] [error] /workspace/desafio-mod-4/workspace/desafio-mod-4/.vscode/data/extensions {"errno":-2,"code":"ENOENT","syscall":"scandir","path":"/workspace/desafio-mod-4/workspace/desafio-mod-4/.vscode/data/extensions"}
+[2020-09-02 14:15:31.026] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/workspace/home/gitpod/.local/share/code-server/Workspaces/Untitled-1599052558410.code-workspace'
+[2020-09-02 14:15:31.026] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/workspace/home/gitpod/.local/share/code-server/Workspaces/Untitled-1599052558410.code-workspace'
+[2020-09-02 14:15:36.040] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/workspace/desafio-mod-4/workspace/desafio-mod-4/.vscode/data/User/snippets'
+[2020-09-02 14:15:36.040] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/workspace/desafio-mod-4/workspace/desafio-mod-4/.vscode/data/User/snippets'
+[2020-09-02 14:15:36.041] [remoteagent] [error] /workspace/desafio-mod-4/workspace/desafio-mod-4/.vscode/data/extensions {"errno":-2,"code":"ENOENT","syscall":"scandir","path":"/workspace/desafio-mod-4/workspace/desafio-mod-4/.vscode/data/extensions"}

@@ -1,0 +1,13 @@
+[2020-09-02 14:18:26.056] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/workspace/home/gitpod/.local/share/code-server/Workspaces/Untitled-1599052558410.code-workspace'
+[2020-09-02 14:18:26.056] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/workspace/home/gitpod/.local/share/code-server/Workspaces/Untitled-1599052558410.code-workspace'
+[2020-09-02 14:18:31.228] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/workspace/desafio-mod-4/workspace/desafio-mod-4/.vscode/data/User/snippets'
+[2020-09-02 14:18:31.228] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/workspace/desafio-mod-4/workspace/desafio-mod-4/.vscode/data/User/snippets'
+[2020-09-02 14:18:31.229] [remoteagent] [error] /workspace/desafio-mod-4/workspace/desafio-mod-4/.vscode/data/extensions {"errno":-2,"code":"ENOENT","syscall":"scandir","path":"/workspace/desafio-mod-4/workspace/desafio-mod-4/.vscode/data/extensions"}
+[2020-09-02 14:19:03.759] [remoteagent] [info] Installing extension: esbenp.prettier-vscode
+[2020-09-02 14:19:04.430] [remoteagent] [info] Downloaded extension: esbenp.prettier-vscode /workspace/desafio-mod-4/workspace/desafio-mod-4/.vscode/data/CachedExtensionVSIXs/esbenp.prettier-vscode-5.5.0
+[2020-09-02 14:19:04.642] [remoteagent] [info] Extracted extension to /workspace/desafio-mod-4/workspace/desafio-mod-4/.vscode/data/extensions/.esbenp.prettier-vscode-5.5.0: esbenp.prettier-vscode
+[2020-09-02 14:19:04.643] [remoteagent] [info] Renamed to /workspace/desafio-mod-4/workspace/desafio-mod-4/.vscode/data/extensions/esbenp.prettier-vscode-5.5.0
+[2020-09-02 14:19:04.644] [remoteagent] [info] Installation completed. esbenp.prettier-vscode
+[2020-09-02 14:19:04.672] [remoteagent] [info] Extensions installed successfully: esbenp.prettier-vscode
+[2020-09-02 14:20:30.073] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/workspace/desafio-mod-4/workspace/desafio-mod-4/.vscode/data/User/snippets'
+[2020-09-02 14:20:30.073] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/workspace/desafio-mod-4/workspace/desafio-mod-4/.vscode/data/User/snippets'
